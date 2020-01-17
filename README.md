@@ -14,7 +14,7 @@
 
 ### （1）已idea为例，创建项目所需要的dependencies 
 
-![image-20200117112949301](C:\Users\kahen\AppData\Roaming\Typora\typora-user-images\image-20200117112949301.png)
+![image-20200117112949301](https://github.com/Kahen/springboot-swagger2/blob/master/image/image-20200117112949301.png)
 
 ### (2) 引入pom.xml依赖
 
@@ -180,15 +180,15 @@ public class UserController {
 
 查找Swagger的主页，在包的Resources的html文件名就对了
 
-![image-20200117122639524](C:\Users\kahen\AppData\Roaming\Typora\typora-user-images\image-20200117122639524.png)
+![image-20200117122639524](https://github.com/Kahen/springboot-swagger2/blob/master/image/image-20200117122639524.png)
 
 访问http://localhost:8080/swagger-ui.html
 
-![image-20200117123213451](C:\Users\kahen\AppData\Roaming\Typora\typora-user-images\image-20200117123213451.png)
+![image-20200117123213451](https://github.com/Kahen/springboot-swagger2/blob/master/image/image-20200117123213451.png)
 
 对应自己的Usercontroller，按try it out 进去调试，其余自行试探
 
-![image-20200117123632718](C:\Users\kahen\AppData\Roaming\Typora\typora-user-images\image-20200117123632718.png)
+![image-20200117123632718](https://github.com/Kahen/springboot-swagger2/blob/master/image/image-20200117123632718.png)
 
 ### （8）调试时验证
 
@@ -218,7 +218,7 @@ public class UserController {
 
 ​                        defaultValue：参数的默认值
 
-![image-20200117124851887](C:\Users\kahen\AppData\Roaming\Typora\typora-user-images\image-20200117124851887.png)
+![image-20200117124851887](https://github.com/Kahen/springboot-swagger2/blob/master/image/image-20200117124851887.png)
 
 展示其中一个，下面给出完整代码
 
@@ -331,7 +331,7 @@ public class UserController {
 
 访问http://localhost:8080/doc.html，得到主页
 
-![image-20200117125431961](C:\Users\kahen\AppData\Roaming\Typora\typora-user-images\image-20200117125431961.png)
+![image-20200117125431961](https://github.com/Kahen/springboot-swagger2/blob/master/image/image-20200117125431961.png)
 
 
 
